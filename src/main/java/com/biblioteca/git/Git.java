@@ -4,6 +4,8 @@ public class Git {
         
         
         System.out.println("Ola mundo");
+        
+        System.out.println("Estamos aqui aprendendo o git");
     }
     
 }
